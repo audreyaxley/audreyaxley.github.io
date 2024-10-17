@@ -1,4 +1,4 @@
-layoutstyle.css >
+style.css >
     h1 {
         font-family: Arial, Arial, Helvetica, sans-serif
         color: orange
@@ -50,4 +50,13 @@ layoutstyle.css >
     left: 5px;
     right: 5px;
     height: 40px;
+    font-size: 15px;
+    text-align: center;
+    position: fixed;
+}
+
+.subheader{
+    border: solid 1px black;
+    float: right;
+    
 }
