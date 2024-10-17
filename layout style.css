@@ -1,0 +1,53 @@
+layoutstyle.css >
+    h1 {
+        font-family: Arial, Arial, Helvetica, sans-serif
+        color: orange
+        font-size: 50px 
+    }
+/*class selector */
+.common{
+    font-family: 'Franklin Gothic Medium','Arial Narrow','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+
+    position: absolute;
+    background-color: mintcream;
+    border: solid 1px pink;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    height: 100px;
+    padding-left: 20px;
+    right: 5px;
+}
+
+.leftmenu{
+    top: 116px;
+    left: 5px;
+    bottom: 50px;
+    width: 150px;
+}
+
+.rightmenu{
+    top: 116px;
+    right: 5px;
+    bottom: 50px;
+    width: 150px;
+}
+
+.mainbody{
+    top: 116px;
+    left: 161px;
+    bottom: 50px;
+    right: 161px;
+    padding-left: 15px;
+    padding-top: 0px;
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 40px;
+}
